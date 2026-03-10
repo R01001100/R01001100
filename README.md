@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am currently studying at the Technological University of the Philippines – Manila. I have experience with HTML, CSS, C++, and C#, and I am currently learning Python. I also have skills in FreeCAD for 3D modeling and KiCad for electronic schematic and PCB design. This GitHub serves as a portfolio where I share my projects and document my progress as I continue improving my programming and engineering skills.</p>
+<p align="left">I am currently studying at the <strong>Technological University of the Philippines – Manila</strong>. I have experience with <strong>HTML, CSS, C++, and C#</strong>, and I am currently learning <strong>Python</strong>. I also have skills in <strong>FreeCAD</strong> for 3D modeling and <strong>KiCAD</strong> for electronic schematic and PCB design. This GitHub serves as a portfolio where I share my projects and document my progress as I continue improving my programming and engineering skills.</p>
 
 ###
 
